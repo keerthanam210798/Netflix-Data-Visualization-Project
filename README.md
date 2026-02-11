@@ -1,4 +1,5 @@
 Netflix Data Visualization & Business Insights Dashboard
+
 📌 Project Overview
 
 This project explores Netflix’s Movies and TV Shows dataset to uncover content trends, genre patterns, rating distributions, and global production insights.
